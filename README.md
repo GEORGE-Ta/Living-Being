@@ -1,6 +1,6 @@
-# Thinking AI
+# Living Being
 
-A sophisticated AI simulation that implements continuous thought processes and desire-driven behavior.
+A sophisticated artificial life simulation that implements continuous thought processes and desire-driven behavior, mimicking the cognitive patterns of living beings.
 
 ## Features
 
@@ -14,8 +14,8 @@ A sophisticated AI simulation that implements continuous thought processes and d
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/thinking-ai.git
-cd thinking-ai
+git clone https://github.com/yourusername/Living-Being.git
+cd Living-Being
 ```
 
 2. Install dependencies:
@@ -56,7 +56,7 @@ pytest app/tests/
 ## Project Structure
 
 ```
-thinking-ai/
+Living-Being/
 ├── app/
 │   ├── api/
 │   ├── core/
